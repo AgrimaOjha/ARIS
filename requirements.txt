@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+plotly
+langchain
+langgraph
+langchain-groq
+sentence-transformers
+faiss-cpu
+duckduckgo-search
+python-dotenv
