@@ -1,6 +1,6 @@
 # ARIS – AI Retention Intelligence System
 
-An intelligent customer retention platform that combines **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI** to predict customer churn and automatically generate personalised retention strategies for telecom businesses.
+An intelligent customer retention platform that combines **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI** to predict customer churn and automatically generate personalised retention strategies for telecom businesses. This tool not only helps a business understand and predict future churners, but also combines the prediction with helpful insights using an agentic AI model for that company.
 
 ## 🌐 Live Demo
 
